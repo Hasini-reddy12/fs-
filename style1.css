@@ -1,0 +1,49 @@
+body{
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    font-size: 30px;
+    background-color: rgb(28, 26, 22);
+    align-items: start;
+}
+.nav-left{
+    color: blue;
+    margin-right: 200px;
+
+}
+
+.nav-right{
+    color:blue;
+}
+nav a{
+    text-decoration: none;
+}
+
+.first{
+    colour: white:
+    font: size 30px;
+    text-align: center;
+ 
+}
+
+.bears{
+    border-radius: 50%;
+    margin-left: 720px;
+}
+p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.proj{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    float: right;
+    margin-right: 120px ;
+}
